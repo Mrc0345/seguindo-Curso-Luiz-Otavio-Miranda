@@ -1,0 +1,2 @@
+-- Seguimento de aulas da udemy de Javascript do Professor Luiz Otavio Miranda.
+-- material de apoio presente no repositorio git do mesmo
